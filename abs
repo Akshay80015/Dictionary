@@ -1,0 +1,3 @@
+Definition.innerHTML=response.Definition
+Valid.innerHTML=response.Valid
+Word.innerHTML=response.Word
